@@ -1,0 +1,10 @@
+<data>
+   <items>
+      <item name="expertise1">SQL</item>
+      <item name="expertise2">Python</item>
+   </items>
+   <items>
+      <item name="expertise1">Django</item>
+      <item name="expertise2">Flask</item>
+   </items>
+</data>
