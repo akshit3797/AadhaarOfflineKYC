@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/41891701/how-to-extract-public-key-from-a-x509-certificate-in-python
+
+https://www.example-code.com/python/parse_x509_certificate_extract_keys.asp
+
+https://www.guyrutenberg.com/2009/01/01/extract-public-key-from-x509-certificate-as-hex/
+
+https://codeholics.com/python-working-with-x509.html
+
+https://stackoverflow.com/questions/5789193/extracting-public-key-from-certificate-and-encrypting-data
+
+search -- python get public key from certificate
+		  parse a certificate and extract public key in python
